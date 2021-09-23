@@ -49,14 +49,14 @@ fluxo da aplicação. Nesta camada, é onde ocorre toda a movimentação da apli
 da camada Model e, assim, devolverá a sua View correspondente junto aos dados.
 Confira, na figura a seguir, o fluxo de dados da arquitetura MVC.
 
-![OrganizacaoMVC](../img/OrganizacaoMVC.png)
+![OrganizacaoMVC](img/OrganizacaoMVC.png)
 
 > Figura 1 - A organização do MVC / Fonte: Sommerville (2011, p. 109).
 
 De forma análoga, a aplicação do MVC para WEB não é tão diferente, altera-se
 apenas o tipo de fluxo, como podemos perceber na Figura 2.
 
-![ArquiteturaDeAplicacoesMVC](../img/ArquiteturaDeAplicacoesMVC.png)
+![ArquiteturaDeAplicacoesMVC](img/ArquiteturaDeAplicacoesMVC.png)
 
 > Figura 2 - Arquitetura de aplicações Web usando o padrão MVC
 Fonte: Sommerville (2011, p. 110)
@@ -65,7 +65,7 @@ Fonte: Sommerville (2011, p. 110)
 Como em toda arquitetura, o MVC possui algumas vantagens e desvantagens.
 Veja, no quadro a seguir, alguns apontamentos:
 
-![VantagensXDesvantagens.png](..img/VantagensXDesvantagens.png)
+![VantagensXDesvantagens.png](img/VantagensXDesvantagens.png)
 > Quadro 1 - Vantagens e desvantagens da arquitetura MVC / Fonte: os autores.
 
 Não há uma receita de bolo que indique a melhor arquitetura a se utilizar, pois
