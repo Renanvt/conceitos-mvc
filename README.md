@@ -265,7 +265,8 @@ podem registrar e procurar por serviços, ou seja, é um framework para disponib
 Confira o fluxo do SOAP na Figura 9 a seguir.
 
 ![FluxoDoSOAP](img/FluxoDoSOAP.png)
-
+> Figura 9 - Fluxo do SOAP / Fonte: os autores.
+> 
 A partir desses conceitos de Web Service, podemos entender melhor os conceitos
 de API RestFull. Este termo une dois conceitos que já trabalhamos no decorrer
 do livro, API e Rest. Apenas relembrando, uma API são os conjuntos de instruções produzidas em uma linguagem de programação — que, no nosso caso, até
