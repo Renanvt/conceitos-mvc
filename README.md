@@ -266,7 +266,7 @@ Confira o fluxo do SOAP na Figura 9 a seguir.
 
 ![FluxoDoSOAP](img/FluxoDoSOAP.png)
 > Figura 9 - Fluxo do SOAP / Fonte: os autores.
-> 
+
 A partir desses conceitos de Web Service, podemos entender melhor os conceitos
 de API RestFull. Este termo une dois conceitos que já trabalhamos no decorrer
 do livro, API e Rest. Apenas relembrando, uma API são os conjuntos de instruções produzidas em uma linguagem de programação — que, no nosso caso, até
@@ -297,7 +297,7 @@ ambiente isolado, dessa forma, cada aplicação tem todos os recursos para si,
 chamado de container (DOCKER, [2021]). 
 
 ![AplicacoesEmContainers.png](img/AplicacoesEmContainers.png)
-- Figura 10 - Aplicações em containers / Fonte: adaptada de Docker ([2021], on-line).
+> Figura 10 - Aplicações em containers / Fonte: adaptada de Docker ([2021], on-line).
 
 Docker é uma virtualização de contêiner tecnologia. Então, é como uma máquina virtual muito leve [VM]. Além de construir contêineres, oferecemos o que
 chamamos de fluxo de trabalho de desenvolvedor, que é realmente sobre ajudar
