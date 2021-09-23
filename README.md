@@ -264,7 +264,7 @@ Além do WSDL, o SOAP necessita do **UDDI** (**Universal Description, Discovery,
 podem registrar e procurar por serviços, ou seja, é um framework para disponibilizar, utilizar e pesquisar por serviços na internet (JOSUTTIS, 2007).
 Confira o fluxo do SOAP na Figura 9 a seguir.
 
-![FluxoDoSOAP](FluxoDoSOAP.png)
+![FluxoDoSOAP](img/FluxoDoSOAP.png)
 
 A partir desses conceitos de Web Service, podemos entender melhor os conceitos
 de API RestFull. Este termo une dois conceitos que já trabalhamos no decorrer
@@ -295,7 +295,7 @@ facilidade na criação e administração de ambientes isolados. Isso mesmo:
 ambiente isolado, dessa forma, cada aplicação tem todos os recursos para si,
 chamado de container (DOCKER, [2021]). 
 
-![AplicacoesEmContainers.png](/AplicacoesEmContainers.png)
+![AplicacoesEmContainers.png](img/AplicacoesEmContainers.png)
 -> Figura 10 - Aplicações em containers / Fonte: adaptada de Docker ([2021], on-line).
 
 Docker é uma virtualização de contêiner tecnologia. Então, é como uma máquina virtual muito leve [VM]. Além de construir contêineres, oferecemos o que
