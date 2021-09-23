@@ -296,7 +296,7 @@ ambiente isolado, dessa forma, cada aplicação tem todos os recursos para si,
 chamado de container (DOCKER, [2021]). 
 
 ![AplicacoesEmContainers.png](img/AplicacoesEmContainers.png)
--> Figura 10 - Aplicações em containers / Fonte: adaptada de Docker ([2021], on-line).
+- Figura 10 - Aplicações em containers / Fonte: adaptada de Docker ([2021], on-line).
 
 Docker é uma virtualização de contêiner tecnologia. Então, é como uma máquina virtual muito leve [VM]. Além de construir contêineres, oferecemos o que
 chamamos de fluxo de trabalho de desenvolvedor, que é realmente sobre ajudar
